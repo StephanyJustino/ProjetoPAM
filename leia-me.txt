@@ -1,0 +1,12 @@
+git init-> o primeiro comando a ser usado, cria a pasta git oculta;
+git status-> mostra o status do seu projeto, onde ele está por exemplo;
+git add -> adiciona o arquivo a pasta master;
+git add . -> adiciona os arquivos a pasta master;
+git commit -m "descrição" -> está salvando a versão do projeto;
+git remote add origin-> conecta o repositório do github ao repositório local do git;
+git push -u origin master -> sobe os arquivos local para a o repositório npo github;
+
+dir-> movimentação entre as pastas no git
+cat -> leitura de arquivos 
+d . -> mostrar pastas ocultas;
+clear -> limpa a área de trabalho no git
